@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Programming & All that Stuff<br>🤝 I’m looking for New Programming Ideas<br>🌱 I’m currently learning C++, Java & Python<br>💬 Ask me about ME!<br>⚡ Fun fact... I love Programming, GAMING! & Coffee
+🔭 I’m currently working on Programming & All that Stuff<br>🤝 I’m looking for New Programming Ideas<br>🌱 I’m currently learning C++, Java, HTML, CSS, JavaScript, TypeScript, React & Python<br>💬 Ask me about ME!<br>⚡ Fun fact... I love Programming, GAMING! & Coffee
 
 
 ## 🌐 Socials:
