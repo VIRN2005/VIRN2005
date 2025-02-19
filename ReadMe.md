@@ -22,9 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VIRN2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-[![]<img src=[[("https://rm.up.railway.app/)]" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VIRN2005&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
